@@ -3,8 +3,8 @@
   "name": "MyRobot Music Library",
   "base_url": "https://raw.githubusercontent.com/dangtienhaivpdk-pixel/myrobot-music/main/music/",
   "songs": [
-    { "id": "song001", "title": "Bai hat 1", "artist": "", "filename": "Bai_nhac_01.mp3", "enabled": true },
-    { "id": "song002", "title": "Bai hat 2", "artist": "", "filename": "Bai_nhac_02.mp3", "enabled": true },
-    { "id": "song003", "title": "Bai hat 3", "artist": "", "filename": "Bai_nhac_03.mp3", "enabled": true }
+    { "id": "song001", "title": "Nhac Mashup 1", "artist": "", "filename": "Bai_nhac_01.mp3", "enabled": true },
+    { "id": "song002", "title": "Nhac Mashup 2", "artist": "", "filename": "Bai_nhac_02.mp3", "enabled": true },
+    { "id": "song003", "title": "Nhac Mashup 3", "artist": "", "filename": "Bai_nhac_03.mp3", "enabled": true }
   ]
 }
